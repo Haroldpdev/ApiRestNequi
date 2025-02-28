@@ -10,10 +10,10 @@ Esta es una API REST desarrollada en **Spring Boot** que permite gestionar **fra
 
 ## Tecnologías Utilizadas
 - **Java 17**
-- **Spring Boot 3**
+- **Spring Boot **
 - **Maven**
 - **MySQL** (Base de datos relacional)
-- **JPA/Hibernate** (ORM para la persistencia de datos)
+- **JPA** (Persistencia de datos)
 - **Lombok** (Reducción de código repetitivo)
 
 ---
