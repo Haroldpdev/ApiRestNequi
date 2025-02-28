@@ -8,7 +8,7 @@ Esta es una API REST desarrollada en **Spring Boot** que permite gestionar **fra
 - **Sucursal**: Contiene un listado de productos.
 - **Producto**: Tiene un nombre y un stock disponible.
 
-## 🚀 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - **Java 17**
 - **Spring Boot 3**
 - **Maven**
