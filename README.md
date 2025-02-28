@@ -47,13 +47,13 @@ La API se ejecutará en `http://localhost:8080`
 Endpoints Disponibles
 
 
-Crear una franquicia
-Agregar una sucursal a una franquicia
-Agregar Producto a una sucursal
-Obtener el producto con más stock 
-Modificar stock de un producto
-Actualizar nombre Franquicia
-Eliminar Producto
+- **Crear una franquicia**
+- **Agregar una sucursal a una franquicia**
+- **Agregar Producto a una sucursal**
+- **Obtener el producto con más stock**
+- **Modificar stock de un producto**
+- **Actualizar nombre Franquicia**
+- **Eliminar Producto**
 
 
 
