@@ -55,5 +55,10 @@ Endpoints Disponibles
 - **Actualizar nombre Franquicia**
 - **Eliminar Producto**
 
+  
+- **Nota**
+  Coleccion de Postman Adjuntada en el correo
+
+  Atte: Harold Peña
 
 
