@@ -56,7 +56,7 @@ Endpoints Disponibles
 - **Eliminar Producto**
 
   
-- **Nota**
+**Nota**
   Coleccion de Postman Adjuntada en el correo
 
   Atte: Harold Peña
